@@ -90,12 +90,6 @@ Full Stack Developer & AI Engineer with **3+ years** of real industry experience
 </p>
 
 <p align="center">
-  <img src="https://badges.strrl.dev/commits/all/yameenaliabro?style=for-the-badge&color=6366f1&label=Total%20Commits" />
-  <img src="https://badges.strrl.dev/repos/yameenaliabro?style=for-the-badge&color=ec4899&label=Repositories" />
-  <img src="https://badges.strrl.dev/prs/all/yameenaliabro?style=for-the-badge&color=10b981&label=Pull%20Requests" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenaliabro&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=6366f1&line=ec4899&point=ffffff&area=true&area_color=6366f1" width="100%" />
 </p>
 
