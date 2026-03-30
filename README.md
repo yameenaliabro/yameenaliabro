@@ -94,9 +94,6 @@ Full Stack Developer & AI Engineer with **3+ years** of real industry experience
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenaliabro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=6366f1&text_color=9ca3af&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenaliabro&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=6366f1&line=ec4899&point=ffffff&area=true&area_color=6366f1" width="98%" />
-</p>
 
 ---
 
