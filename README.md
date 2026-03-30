@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://protfolio-yameen.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muhammad-yameen-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://protfolio-yameen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/muhammad-yameen-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:muhammadyameen5432@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -68,57 +68,16 @@ Full Stack Developer & AI Engineer with **3+ years** of real industry experience
 
 ### Live Production Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Stack</th>
-      <th>Highlight</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://l2u.co.kr" target="_blank"><b>L2U Platform</b></a></td>
-      <td>Next.js, PostgreSQL, Blockchain</td>
-      <td>$15K+ daily transactions</td>
-    </tr>
-    <tr>
-      <td><a href="https://new-smoothai.vercel.app" target="_blank"><b>Smooth AI</b></a></td>
-      <td>Next.js, LangChain, Three.js</td>
-      <td>AI SaaS with 3D avatars</td>
-    </tr>
-    <tr>
-      <td><a href="https://interview.talently.ai" target="_blank"><b>Talently AI</b></a></td>
-      <td>React, Socket.io, Deepgram</td>
-      <td>Voice AI interview platform</td>
-    </tr>
-    <tr>
-      <td><a href="https://ai-test.codedev.sa" target="_blank"><b>AI Test Platform</b></a></td>
-      <td>Next.js, OpenAI</td>
-      <td>AI testing suite</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.artistablinds.com" target="_blank"><b>Artista Blinds</b></a></td>
-      <td>Next.js, AWS, Stripe</td>
-      <td>SaaS with payments</td>
-    </tr>
-    <tr>
-      <td><a href="https://dynamicbusiness.com" target="_blank"><b>Dynamic Business</b></a></td>
-      <td>Next.js, SEO</td>
-      <td>Global blog platform</td>
-    </tr>
-    <tr>
-      <td><a href="https://pixpel.io" target="_blank"><b>Pixpel.io</b></a></td>
-      <td>Next.js, Web3, Blockchain</td>
-      <td>NFT & gaming marketplace</td>
-    </tr>
-    <tr>
-      <td><a href="https://life-finder.com" target="_blank"><b>Life Finder</b></a></td>
-      <td>Next.js, APIs</td>
-      <td>Healthcare locator</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Stack | Highlight |
+|---------|-------|-----------|
+| [**L2U Platform**](https://l2u.co.kr) | Next.js, PostgreSQL, Blockchain | $15K+ daily transactions |
+| [**Smooth AI**](https://new-smoothai.vercel.app) | Next.js, LangChain, Three.js | AI SaaS with 3D avatars |
+| [**Talently AI**](https://interview.talently.ai) | React, Socket.io, Deepgram | Voice AI interview platform |
+| [**AI Test Platform**](https://ai-test.codedev.sa) | Next.js, OpenAI | AI testing suite |
+| [**Artista Blinds**](https://www.artistablinds.com) | Next.js, AWS, Stripe | SaaS with payments |
+| [**Dynamic Business**](https://dynamicbusiness.com) | Next.js, SEO | Global blog platform |
+| [**Pixpel.io**](https://pixpel.io) | Next.js, Web3, Blockchain | NFT & gaming marketplace |
+| [**Life Finder**](https://life-finder.com) | Next.js, APIs | Healthcare locator |
 
 > All projects are **live & in production** serving real users.
 
@@ -127,15 +86,16 @@ Full Stack Developer & AI Engineer with **3+ years** of real industry experience
 ### GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/yameenaliabro" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenaliabro&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=6366f1&line=ec4899&point=ffffff&area=true&area_color=6366f1" width="98%" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yameenaliabro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=6366f1&icon_color=ec4899&text_color=9ca3af" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yameenaliabro&theme=tokyonight&hide_border=true&background=0a0a1a&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yameenaliabro" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenaliabro&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=6366f1&line=ec4899&point=ffffff&area=true&area_color=6366f1" width="98%" />
-  </a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameenaliabro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=6366f1&text_color=9ca3af&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yameenaliabro&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=6366f1&line=ec4899&point=ffffff&area=true&area_color=6366f1" width="98%" />
 </p>
 
 ---
@@ -146,5 +106,5 @@ Full Stack Developer & AI Engineer with **3+ years** of real industry experience
 
 <p align="center">
   <b>Let's build something great together.</b><br/>
-  <a href="https://protfolio-yameen.vercel.app" target="_blank">View Portfolio</a> &bull; <a href="mailto:muhammadyameen5432@gmail.com">Hire Me</a>
+  <a href="https://protfolio-yameen.vercel.app">View Portfolio</a> &bull; <a href="mailto:muhammadyameen5432@gmail.com">Hire Me</a>
 </p>
