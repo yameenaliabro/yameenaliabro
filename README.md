@@ -17,7 +17,7 @@
 
 ### About Me
 
-Full Stack Developer & AI Engineer with **3+ years** of real industry experience. I build production-grade web apps, AI platforms, and SaaS products that handle real users and real money.
+Full Stack Developer & AI Engineer with **4+ years** of real industry experience. I build production-grade web apps, AI platforms, and SaaS products that handle real users and real money.
 
 - Currently building **fintech solutions** processing **$15K+ daily transactions** at Must Company
 - Shipped **10+ live production projects** across AI, SaaS, Web3 & e-commerce
